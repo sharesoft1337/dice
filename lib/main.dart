@@ -71,7 +71,7 @@ class _DicePageState extends State<DicePage> {
             ],
           ),
           SizedBox(
-            height: 50,
+            height: 15,
           ),
           ElevatedButton(
             style: ElevatedButton.styleFrom(
